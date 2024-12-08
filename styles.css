@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gainsboro;
+}
+
+img{
+    width: 150px;
+    height: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: mediumseagreen;
+    text-align: center;
+}
+
+table {
+    border: 2px solid forestgreen;
+    width: 700px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: lawngreen;
+}
+th{
+    border: 2px solid forestgreen;
+}
+
+td {
+    border-top: 1px solid forestgreen;
+}
+
+.code {
+    font-family: monospace;
+    background-color: beige;
+}
